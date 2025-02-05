@@ -67,7 +67,7 @@ function add_parameters()
     end
     params:add_group('lfos',96)
     for i=1,3 do
-        amp_lfo[i]:add_params(colors[i]..'_noise_amp_lfo',colors[i]..' noise amp')
+        amp_lfo[i]:add_params(colors[i]..'_noise_amp_lfo',colors[i]..' noise level')
         amp_lfo[i]:set('action', function(scaled, raw) params:set(colors[i].."_noise_level",scaled) end)
         pan_lfo[i]:add_params(colors[i]..'_noise_pan_lfo',colors[i]..' noise pan')
         pan_lfo[i]:set('action', function(scaled, raw) params:set(colors[i].."_noise_pan",scaled) end)
