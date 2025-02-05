@@ -1,8 +1,7 @@
 # scryingstone
 scrying stone for monome norns
 
-<img width="1390" alt="Screenshot 2025-02-04 at 11 56 34 PM" src="https://github.com/user-attachments/assets/5033d6e2-2b29-47db-a64b-fb86ae64fe6b" />
-
+<img width="1388" alt="Screenshot 2025-02-04 at 11 56 34 PM" src="https://github.com/user-attachments/assets/949d440c-0653-4888-9696-18a94bf43760" />
 
 _So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it._
 * Isaiah 55:11
