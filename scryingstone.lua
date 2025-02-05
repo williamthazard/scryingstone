@@ -7,7 +7,7 @@
 -- it shall accomplish that 
 -- which I please, and it 
 -- shall prosper in the 
--- thing  whereto I sent it.” 
+-- thing whereto I sent it.” 
 --
 -- Isaiah 55:11
 
