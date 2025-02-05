@@ -17,7 +17,7 @@ k1: shift <br>
 e1: white noise level <br>
 shift + e1: white noise pan <br>
 e2: pink noise level <br>
-shift + e2: white noise pan <br>
+shift + e2: pink noise pan <br>
 e3: brown noise level <br>
 shift + e3: brown noise pan <br>
 
