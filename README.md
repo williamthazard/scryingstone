@@ -13,7 +13,7 @@ Isaiah 55:11
 
 ### Documentation
 
-k1: shift <br>
+k1-3: shift <br>
 e1: white noise level <br>
 shift + e1: white noise pan <br>
 e2: pink noise level <br>
